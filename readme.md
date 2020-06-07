@@ -74,3 +74,6 @@ Copyright (c) 2012 Rui Ueyama, The MIT License
 ### elvm
 
 Copyright (c) 2016 Shinichiro Hamaji, The MIT License
+
+## Notes
+- [backend code for 8cc.wasi](https://github.com/sanemat/elvm/commit/a1aa38545119fb66460a1709c11690cee08688ef)
