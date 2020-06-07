@@ -65,12 +65,12 @@ Hello, world!
 
 ### 8cc.wasi
 Copyright 2020 Matt (Sanemat) (Murahashi Kenichi)
-[Apache License Version 2.0](./license.txt)
+[The MIT License](./license.txt)
 
 ### 8cc
 
-Copyright (c) 2012 Rui Ueyama, MIT License
+Copyright (c) 2012 Rui Ueyama, The MIT License
 
 ### elvm
 
-Copyright (c) 2016 Shinichiro Hamaji, MIT License
+Copyright (c) 2016 Shinichiro Hamaji, The MIT License
