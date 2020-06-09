@@ -75,5 +75,5 @@ Copyright (c) 2012 Rui Ueyama, The MIT License
 
 Copyright (c) 2016 Shinichiro Hamaji, The MIT License
 
-## Notes
-- [backend code for 8cc.wasi](https://github.com/sanemat/elvm/commit/a1aa38545119fb66460a1709c11690cee08688ef)
+## Refs
+- [backend code for 8cc.wasi](https://github.com/shinh/elvm/commit/9a563b8889e5710f78de1d4351343a755ef9b44c)
